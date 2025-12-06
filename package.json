@@ -1,6 +1,6 @@
 {
   "name": "@testboxlab/react-bubble-chart-d3",
-  "version": "2.0.0",
+  "version": "3.0.0",
   "description": "ReactJS component to display data as a bubble chart using D3.",
   "keywords": [
     "ReactJS",
@@ -24,7 +24,7 @@
     "react-dom": "^17.0.2"
   },
   "dependencies": {
-    "d3": "^4.13.0",
+    "d3": "^7.9.0",
     "prop-types": "^15.6.0"
   },
   "scripts": {
